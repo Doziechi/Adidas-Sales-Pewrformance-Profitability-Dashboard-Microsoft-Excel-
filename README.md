@@ -1,4 +1,4 @@
-# Adidas-Sales-Dashboard-Using-Excel
+# Adidas Sales Pewrformance & Profitability Dashboard (Microsoft Excel)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
